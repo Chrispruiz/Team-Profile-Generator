@@ -8,7 +8,7 @@ test('Can set name', () => {
 });
 
 test('Can set id', () => {
-  const testValue = 100;
+  const testValue = 50;
   const e = new Employee('123', testValue);
   expect(e.id).toBe(testValue);
 });
@@ -26,7 +26,7 @@ test('Can grab name via getName()', () => {
 });
 
 test('Can get id via getId()', () => {
-  const testValue = 100;
+  const testValue = 50;
   const e = new Employee('123', testValue);
   expect(e.getId()).toBe(testValue);
 });
