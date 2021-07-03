@@ -1,7 +1,7 @@
 # Team Project Generator
   
   ## Description: 
-  Team Project Generator is a command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays informatuin for each person such as an email and ID number.
+  Team Project Generator is a command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays information for each person such as an email and ID number.
   ![Screenshot main page](src/Main.png)
   ## Table of Contents
   * [Installation](#installation) 
